@@ -21,7 +21,7 @@ import { RevenueChartSkeleton,
             <CardWrapper />
           </Suspense>
         </div>
-        // ...
+        
       </main>
     );
   }
